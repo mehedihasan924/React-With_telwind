@@ -1,18 +1,25 @@
 [
 {  
     "id":1,
-    "url":"/public/book.pdf"
+    "name":"Basic Membership",
+    "price": 500,
+    "features":["Mehwdi", "Hasan","Khaled","salman"],
+    "data" :
+        {
+        "data":"Mehedi Hasan "
+    }
+
 },
 {  
     "id":2,
-    "url":"/public/book.pdf"
+    "name":"Basic Membership",
+    "price": 500,
+    "features":["Mehwdi", "Hasan","Khaled","salman"]
 },
 {  
     "id":3,
-    "url":"/public/book.pdf"
-},
-{  
-    "id":4,
-    "url":"/public/book.pdf"
+    "name":"Basic Membership",
+    "price": 500,
+    "features":["Mehwdi", "Hasan","Khaled","salman","Hasan","Khaled","salman"]
 }
 ]
